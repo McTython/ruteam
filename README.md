@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ruteam
+- 👀 I’m interested in software developing
+- 🌱 I’m currently learning c++
