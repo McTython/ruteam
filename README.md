@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @ruteam
+- 👋 Hi, I’m @tython
 - 👀 I’m interested in software developing
